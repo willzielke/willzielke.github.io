@@ -1,4 +1,4 @@
-https://www.willzielke.github.io
+willzielke.github.io
 
 Template Info:
 
