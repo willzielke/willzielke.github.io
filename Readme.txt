@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+willzielke.github.io
+
+Template Info:
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
