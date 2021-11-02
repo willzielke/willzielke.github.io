@@ -1,6 +1,6 @@
 Personal Website.
 
-willzielke.github.io
+https://willzielke.github.io
 
 Modified by Will Zielke
 
