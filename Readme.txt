@@ -1,4 +1,8 @@
+Personal Website.
+
 willzielke.github.io
+
+Modified by Will Zielke
 
 Template Info:
 
